@@ -35,6 +35,7 @@ Entries cover the official specification and sample questions, free and paid pra
 - [Go SQE1](https://gosqe.com/en) — Free practice questions covering FLK1 organised by subject and topic, with detailed explanations referencing statutes and case law. Freemium model with paid access to the full FLK1 and FLK2 bank. (Maintained by the publisher of this list.)
 - [Law Drills](https://www.lawdrills.com/) — Adaptive SQE1 practice platform with a free tier of practice questions and mini-mocks; paid subscription unlocks the full bank.
 - [QLTS School — Free SQE Sample Material](https://www.qlts.co.uk/resources/sqe-sample-material/) — Two free 50-question mock tests (one for FLK1, one for FLK2) with full answer explanations.
+- [UK SQE Course — Free SQE1 Sample Questions](https://uksqecourse.com/samples) — Free SQE1 single-best-answer questions with full explanations: 10 without an account, 25 with a free account. Paid plans unlock the full question bank.
 
 ## Paid Study Providers
 
